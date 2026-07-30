@@ -17,8 +17,8 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes
 
 # ─── Environment Variables ──────────────────────────────────────────
-TOKEN = os.environ.get("BOT_TOKEN")
-ADMIN_ID = os.environ.get("ADMIN_ID")
+TOKEN = os.environ.get("8948491444:AAEshhG6k-qpiNmzSQI9sk0Hs6HnmnQVmQo")
+ADMIN_ID = os.environ.get("1626617395")
 
 if not TOKEN or not ADMIN_ID:
     print("❌ Please set BOT_TOKEN and ADMIN_ID environment variables!")
