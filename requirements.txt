@@ -1,0 +1,5 @@
+python-telegram-bot==20.0
+aiohttp
+ddddocr
+opencv-python-headless
+numpy
